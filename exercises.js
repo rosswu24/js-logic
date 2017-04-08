@@ -113,6 +113,12 @@ console.log(mustBeTrue(30));
  * Console.log your result.
 */
 
+function bigBird(word){
+	if(word = "abc"){
+		return " Word to Big Bird";
+	}
+}
+console.log(bigBird("Ray"));
 
 
 /*
